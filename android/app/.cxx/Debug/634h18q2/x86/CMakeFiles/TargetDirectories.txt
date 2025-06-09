@@ -1,0 +1,2 @@
+/home/keven-dev/Desktop/Work/my_projects/palestra_campus/android/app/.cxx/Debug/634h18q2/x86/CMakeFiles/edit_cache.dir
+/home/keven-dev/Desktop/Work/my_projects/palestra_campus/android/app/.cxx/Debug/634h18q2/x86/CMakeFiles/rebuild_cache.dir

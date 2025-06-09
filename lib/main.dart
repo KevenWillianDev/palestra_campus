@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:palestra_campus/login_module/page.dart';
+import 'package:palestra_campus/home_page/page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const Login(title: 'Flutter Demo Home Page'),
+      home: const ProfileList(title: 'View Profiles'),
     );
   }
 }
