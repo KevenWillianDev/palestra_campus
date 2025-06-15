@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:palestra_campus/home_page/page.dart';
+import 'package:palestra_campus/home/page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,10 +13,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Palestra Campus',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        // colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const ProfileList(title: 'View Profiles'),
+      home: const ProfileList(title: 'Campuseiros'),
     );
   }
 }
