@@ -1,4 +1,4 @@
-# 🚀 Workshop Flutter – Crie seu Primeiro App Multiplataforma
+# 🚀 Workshop Flutter – CRIANDO APP EM FLUTTER RÁPIDO E PRÁTICO
 
 Bem-vindo ao repositório oficial do nosso workshop de Flutter!  
 Aqui você encontrará todos os arquivos, instruções e materiais para acompanhar a construção de um app simples e funcional com Flutter.
@@ -29,5 +29,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 
 Para verificar se o ambiente está pronto, rode no terminal:
 
+
+by @KevenWillianDev and @RyanOtto
 ```bash
 flutter doctor
