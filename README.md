@@ -30,6 +30,8 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 Para verificar se o ambiente está pronto, rode no terminal:
 
 
-by @KevenWillianDev and @RyanOtto
 ```bash
 flutter doctor
+```
+
+by KevenWillian and RyanOtto
