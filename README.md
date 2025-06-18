@@ -1,16 +1,33 @@
-# palestra_campus
+# 🚀 Workshop Flutter – Crie seu Primeiro App Multiplataforma
 
-A new Flutter project.
+Bem-vindo ao repositório oficial do nosso workshop de Flutter!  
+Aqui você encontrará todos os arquivos, instruções e materiais para acompanhar a construção de um app simples e funcional com Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Sobre o Workshop
 
-A few resources to get you started if this is your first Flutter project:
+Neste workshop, vamos aprender o básico sobre o Flutter e desenvolver um aplicativo juntos do zero, mostrando o poder e a facilidade dessa tecnologia.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 👨‍🏫 O que você vai aprender
+- O que é Flutter e por que usar
+- Estrutura básica de um projeto Flutter
+- Como construir interfaces com widgets
+- Gerenciamento de estado simples com `setState`
+- Execução do app em emulador ou dispositivo real
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Pré-requisitos
+
+Antes de começar, certifique-se de ter o seguinte instalado:
+
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- VSCode ou Android Studio
+- Emulador ou dispositivo Android/iOS conectado
+- Git
+
+Para verificar se o ambiente está pronto, rode no terminal:
+
+```bash
+flutter doctor
