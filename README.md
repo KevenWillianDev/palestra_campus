@@ -10,11 +10,10 @@ Aqui você encontrará todos os arquivos, instruções e materiais para acompanh
 Neste workshop, vamos aprender o básico sobre o Flutter e desenvolver um aplicativo juntos do zero, mostrando o poder e a facilidade dessa tecnologia.
 
 ### 👨‍🏫 O que você vai aprender
-- O que é Flutter e por que usar
+- O que é Flutter
 - Estrutura básica de um projeto Flutter
 - Como construir interfaces com widgets
-- Gerenciamento de estado simples com `setState`
-- Execução do app em emulador ou dispositivo real
+- Execução do app em Web ou android
 
 ---
 
@@ -33,5 +32,4 @@ Para verificar se o ambiente está pronto, rode no terminal:
 ```bash
 flutter doctor
 ```
-
-by KevenWillian and RyanOtto
+Keven Willian & Ryan O
