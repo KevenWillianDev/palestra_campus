@@ -32,4 +32,4 @@ Para verificar se o ambiente está pronto, rode no terminal:
 ```bash
 flutter doctor
 ```
-Keven Willian & Ryan O
+Keven Willian & Ryan Otto
